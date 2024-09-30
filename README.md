@@ -1,5 +1,5 @@
 # Hello, world! 👋
-Designer 🎨 | Developer 🖥️ | Tenor 🎶 | Photographer 📸
+Developer 🖥️ | Tenor 🎶 | Photographer 📸 | Designer 🎨  
 
 ### For me 👨🏻‍💻 
 
