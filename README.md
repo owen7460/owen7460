@@ -17,5 +17,5 @@ This April, I will be completing my diploma. If you are interested in my work or
 
 
 ---
-Click to see my projects
-[My personal website: ] (https://owen-ca.com "Go to Owen's website")
+Click to see my projects: 
+[My personal website] (https://owen-ca.com "Go to Owen's website")
