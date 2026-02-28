@@ -15,7 +15,5 @@ When I was studying at my conservatory of music, my friend and I created a platf
 In some way, I have been meaning to learn Web Design and Development, so this is the reason.
 
 ---
-
-***Bēhance***: https://www.behance.net/xiongwenouyang  
-***Instagram***: https://www.instagram.com/owen_xiongwenouyang/?hl=en  
-***Email***: Xiongwen.Ouyang@edu.sait.ca
+Click to see my projects
+My personal website: owen-ca.com
